@@ -1,7 +1,7 @@
 # Site settings
 title: XD Blog
 SEOTitle: 晓东的博客
-header-img: img/post-bg-desk.jpg
+header-img: img/blog-bg-desk.jpg
 email: lzxiaodong@gmail.com
 description: "天道酬勤"
 keyword: "good good study,day day up!"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/lzxiaodong11/lzxiaodong11.github.io.git" # you 
 # Sidebar settings
 sidebar: false                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar:      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
